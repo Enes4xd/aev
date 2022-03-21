@@ -1,5 +1,6 @@
 git clone https://github.com/Enes4xd/aev
 git clone https://github.com/Enes4xd/Enes4xd.git
+git clone https github.com/Enes4xd/Enes4xd
 # Exploit Title: Printix Client 1.3.1106.0 - Remote Code Execution (RCE)
 # Date: 3/1/2022
 # Exploit Author: Logan Latvala
